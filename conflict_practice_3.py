@@ -8,6 +8,7 @@ ROSTER = [
     {"name": "Merge Conflict Mage", "hp": 95, "attack": (8, 25), "phrase": "I resolved you!"},
     {"name": "mosa", "hp": 105, "attack": (8, 18), "phrase": "Merge conflict? No problem!"},
     {"name": "Eran the Resolver", "hp": 105, "attack": (7, 18), "phrase": "Conflict? Already merged."},
+    {"name": "Idan the Unmergeable", "hp": 130, "attack": (15, 28), "phrase": "git push --force to victory!"},
     # --- ADD HERE ---
 ]
 
